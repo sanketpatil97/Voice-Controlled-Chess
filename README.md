@@ -1,5 +1,5 @@
 # Voice-Controlled-Chess
 A voice controlled Chess game developed in C++ using SFML libraries for graphics and HMM for voice processing
 
-![Chess](https://user-images.githubusercontent.com/42466938/132587083-1606e8fd-ed0a-47e9-a755-bef9b3343d11.png)
+![Chess (1)](https://user-images.githubusercontent.com/42466938/132588369-871cbac7-0536-4109-a1ec-9cb48f410e39.png)
 
